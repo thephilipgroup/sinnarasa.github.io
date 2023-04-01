@@ -52,7 +52,7 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<div>To make a donation, please send an eTransfer to <strong>trust@sinnarasa.com</strong>.  If you are outside Canada, you can visit <a href="paypal.me/sinnarasatrust">paypal.me/sinnarasatrust</a> instetad.</div>'
+donation_embed: '<div><p>To make a donation to the Anton Sinnarasa Philip's Trust, and honor his memory by helping us continue his projects, please send an eTransfer to <a href="mailto:trust@sinnarasa.com"><strong>trust@sinnarasa.com</strong></a>.</p><p> If you are outside Canada, you can visit <a href="paypal.me/sinnarasatrust">paypal.me/sinnarasatrust</a> instetad.</p></div>'
 newsletter_action: "https://sinnarasa.us17.list-manage.com/subscribe/post?u=74cab5254891f5d33fa90ec10&amp;id=7aa1c23a5d&amp;f_id=00336ae0f0"
 
 plugins:
