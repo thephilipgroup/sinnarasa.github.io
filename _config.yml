@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: The Sinnarasa Foundations
+url: https://sinnarasa.com
 baseurl:
 google_analytics_key:
 
@@ -52,8 +52,8 @@ defaults:
     values:
       layout: "default"
 
-donation_embed: '<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/give-sheep-the-vote?hide_donation_meter=true" height="685px" width="100%" style="max-width:425px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>'
-newsletter_action: "//your-mailchimp-action-url.com"
+donation_embed: '<div>To make a donation, please send an eTransfer to <strong>trust@sinnarasa.com</strong>.  If you are outside Canada, you can visit <a href="paypal.me/sinnarasatrust">paypal.me/sinnarasatrust</a> instetad.</div>'
+newsletter_action: "https://sinnarasa.us17.list-manage.com/subscribe/post?u=74cab5254891f5d33fa90ec10&amp;id=7aa1c23a5d&amp;f_id=00336ae0f0"
 
 plugins:
   - jekyll-sitemap
